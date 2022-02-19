@@ -1,0 +1,5 @@
+SIZE=75
+
+SCALE = 2
+
+PAGE_SIZE=1280
